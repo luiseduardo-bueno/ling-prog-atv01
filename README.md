@@ -1,2 +1,2 @@
 # ling-prog-atv01
- Atividade 01 - Linguagem de Programação
+ FATEC Guaratinguetá - Linguagem de Programação: atividade 01
